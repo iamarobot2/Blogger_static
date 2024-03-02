@@ -1,0 +1,15 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.full-text {
+    display: none;
+}
+.sticky-top {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff; /* You can customize the background color */
+    z-index: 1000; /* Adjust the z-index as needed */
+}
